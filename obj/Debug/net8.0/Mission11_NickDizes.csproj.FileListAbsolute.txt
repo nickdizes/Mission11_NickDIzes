@@ -125,3 +125,4 @@
 /Users/nickdizes/Desktop/IS413/Mission11_NickDizes/Mission11_NickDizes/Mission11_NickDizes/obj/Debug/net8.0/Mission11_NickDizes.pdb
 /Users/nickdizes/Desktop/IS413/Mission11_NickDizes/Mission11_NickDizes/Mission11_NickDizes/obj/Debug/net8.0/Mission11_NickDizes.genruntimeconfig.cache
 /Users/nickdizes/Desktop/IS413/Mission11_NickDizes/Mission11_NickDizes/Mission11_NickDizes/obj/Debug/net8.0/ref/Mission11_NickDizes.dll
+/Users/nickdizes/Desktop/IS413/Mission11_NickDizes/Mission11_NickDizes/Mission11_NickDizes/obj/Debug/net8.0/Mission11_NickDizes.sourcelink.json

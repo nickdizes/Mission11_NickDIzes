@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission11_NickDizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159fee4eae7aed54a96ffcd449bab810a65dbf13")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission11_NickDizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission11_NickDizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
